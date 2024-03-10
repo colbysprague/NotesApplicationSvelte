@@ -13,3 +13,5 @@
 
 ## Demo
 https://youtu.be/SJn28kl_eDE
+
+<img width="1281" alt="Screenshot 2024-03-10 at 6 09 58 PM" src="https://github.com/colbysprague/NotesApplicationSvelte/assets/116236720/d3de703d-ba92-4261-86e6-87d668b5cf96">
